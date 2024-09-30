@@ -29,10 +29,6 @@ main h1 {
     color: var(--global-primary-color);
     padding: 10px;
 }
-.first { 
-    float: right; 
-    padding: 10px;
-    margin: .7em;}
 main h2 {
     font-size: 125%;
     padding: 10px;}
