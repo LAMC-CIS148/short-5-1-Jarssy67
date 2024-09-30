@@ -15,7 +15,8 @@ body {
     border-style: double; 
     border-width: 6px;
     padding:10px;
-    width: 60%; 
+    margin: 0 auto;
+    width: 50%; 
 }
 
 header img {
@@ -44,10 +45,12 @@ main h3 {
 
 .quote1 { 
     text-align: right; 
-    color: var(--global-secondary-color); }
+    color: var(--global-secondary-color); 
+}
 .quote2 {
     text-align: right; 
-    color: var(--global-secondary-color) ;}
+    color: var(--global-secondary-color) ;
+}
 ol { 
     margin: 10px;}
 li {
